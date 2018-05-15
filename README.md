@@ -3,3 +3,7 @@
 # nnb-my-wonderland
 
 My Wonderland
+
+## Development
+
+This project uses [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)

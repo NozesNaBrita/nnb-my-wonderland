@@ -7,3 +7,5 @@ My Wonderland
 ## Development
 
 This project uses [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+Initial code was generated using [cookiecutter-django](https://github.com/pydanny/cookiecutter-django). Read [generated documentation](cookiecutter-README.rst).

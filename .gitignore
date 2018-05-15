@@ -272,3 +272,9 @@ nnb_my_wonderland/media/
 .env
 .envs/*
 !.envs/.local/
+
+### Virtual Studio Code
+.vscode/
+
+### PyTest
+.pytest_cache/

@@ -1,2 +1,11 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/NozesNaBrita/nnb-my-wonderland.svg?columns=all)](https://waffle.io/NozesNaBrita/nnb-my-wonderland)
+
 # nnb-my-wonderland
+
 My Wonderland
+
+## Development
+
+This project uses [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+Initial code was generated using [cookiecutter-django](https://github.com/pydanny/cookiecutter-django). Read [generated documentation](cookiecutter-README.rst).
